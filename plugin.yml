@@ -1,0 +1,4 @@
+name: Config
+author: Zephyr
+main: me.zephyr.Config.Config
+version: 0.1
